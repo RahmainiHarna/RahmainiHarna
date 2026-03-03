@@ -4,9 +4,13 @@
 </p>
 
 <!-- PERKENALAN -->
+<br>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me%E2%99%8C" />
 </p>
+
+***
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
@@ -27,29 +31,29 @@
     </a>
 </p>
 
----
-
 <!-- ICON -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack%F0%9F%92%BB" />
 </p>
 
-#####  Programming Languages
+***
+
+####  Programming Languages
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,php,java,laravel" height="40"/>
 </p>
 
-##### 🗄 Database
+#### 🗄 Database
 <p>
     <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 </p>
 
-##### 🛠 Tools
+#### 🛠 Tools
 <p>
     <img src="https://skillicons.dev/icons?i=vscode,git" height="40"/>
 </p>
 
----
+***
 <!-- GAME -->
 <p align="center">
     <picture>
@@ -59,8 +63,7 @@
     </picture>
 </p>
 
----
-
+***
 <!-- GITHUB STATS -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics%F0%9F%93%8A" />
@@ -69,5 +72,4 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmainiHarna&theme=highcontrast" alt="GitHub Streak" height="165"/>
     </a>
 </p>
-
 
