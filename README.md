@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=~~~Hi+There~~~" />
-</p>
-
 <!-- BANNER -->
 <p align="center">
     <img src="Rahmaini Harna.png" />
@@ -52,6 +48,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=vscode,git" height="40"/>
 </p>
+
 ---
 <!-- GAME -->
 <p align="center">
