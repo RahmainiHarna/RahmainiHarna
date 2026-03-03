@@ -4,10 +4,8 @@
 </p>
 
 <!-- PERKENALAN -->
-<div align="center" style="font-size:24px; font-weight:bold; margin:0;">
-  ♌ About Me
-</div>
-<hr style="margin:-6px 0 1px 0; height:0.4px; border:none; background-color:#30363d;">
+<div align="center" style="font-size:25px; font-weight:bold;"> ♌About Me </div>
+<hr style="margin:-6px 0 1px 0; height:0.3px; border:none; background-color:#30363d;">
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
