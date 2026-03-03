@@ -4,7 +4,7 @@
 </p>
 
 <!-- PERKENALAN -->
-<h1 align="center">♌ About Me</h1>
+<h1>♌ About Me</h1>
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
@@ -26,7 +26,7 @@
 </p>
 
 <!-- ICON -->
-<h1 align="center">💻 Tech Stack</h1>
+<h1>💻 Tech Stack</h1>
 
 ####  Programming Languages
 <p>
@@ -53,7 +53,7 @@
 </p>
 
 <!-- GITHUB STATS -->
-<h1 align="center">📊 GitHub Analytics</h1>
+<h1>📊 GitHub Analytics</h1>
 <p align="center" style="margin-top:20px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RahmainiHarna&show_icons=true&theme=rising-sun&include_all_commits=true&count_private=true&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB&icon_color=E89B51" height="165"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahmainiHarna&layout=compact&theme=rising-sun&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB" height="165"/>
