@@ -30,7 +30,7 @@
 
 ####  Programming Languages
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,laravel" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,laravel" height="40"/>
 </p>
 
 #### 🗄 Database
