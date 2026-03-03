@@ -4,12 +4,13 @@
 </p>
 
 <!-- PERKENALAN -->
-<br>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me%E2%99%8C" />
-</p>
-<hr style="height:1px;border:none;background-color:#333;">
-
+<div align="center">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=000000&center=true&vCenter=true&width=600&lines=About+Me%E2%99%8C"
+        style="display:block; margin:0 auto;"
+    />
+</div>
+<hr style="margin:-6px 0 0 0; height:1px; border:none; background-color:#30363d;">
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
@@ -31,10 +32,12 @@
 </p>
 
 <!-- ICON -->
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack%F0%9F%92%BB" />
-</p>
-<hr style="height:1px;border:none;background-color:#333;">
+<div align="center">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack%F0%9F%92%BB"
+        style="display:block; margin:0 auto;"/>
+</div>
+<hr style="margin:-6px 0 10px 0; height:1px; border:none; background-color:#30363d;">
 
 ####  Programming Languages
 <p>
@@ -51,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,git" height="40"/>
 </p>
 
-<hr style="height:1px;border:none;background-color:#333;">
+<hr style="margin:20px 0; height:2px; border:none; background-color:#30363d;">
 <!-- GAME -->
 <p align="center">
     <picture>
@@ -61,15 +64,18 @@
     </picture>
 </p>
 
-<hr style="height:1px;border:none;background-color:#333;">
+<hr style="margin:20px 0; height:2px; border:none; background-color:#30363d;">
 <!-- GITHUB STATS -->
+<div align="center">
+    <img 
+        src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics%F0%9F%93%8A"
+        style="display:block; margin:0 auto;"
+    />
+</div>
+
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics%F0%9F%93%8A" />
-    <br>
-    <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RahmainiHarna&show_icons=true&theme=rising-sun&include_all_commits=true&count_private=true&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB&icon_color=E89B51" height="165"/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahmainiHarna&layout=compact&theme=rising-sun&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB" height="165"/>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmainiHarna&theme=rising-sun&background=1E1E1E&ring=E8CDB0&fire=E89B51&currStreakLabel=E89B51&sideLabels=E89B51&dates=D4D1CB" height="165"/>
-    </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RahmainiHarna&show_icons=true&theme=rising-sun&include_all_commits=true&count_private=true&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB&icon_color=E89B51" height="165"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahmainiHarna&layout=compact&theme=rising-sun&bg_color=1E1E1E&title_color=E8CDB0&text_color=D4D1CB" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RahmainiHarna&theme=rising-sun&background=1E1E1E&ring=E8CDB0&fire=E89B51&currStreakLabel=E89B51&sideLabels=E89B51&dates=D4D1CB" height="165"/>
 </p>
 
