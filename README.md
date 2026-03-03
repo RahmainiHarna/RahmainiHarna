@@ -9,7 +9,7 @@
 
 <!-- PERKENALAN -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me♌" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me♌" />
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 
 > I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology.
 
+Fun 
 <p align="center">
     <a href="https://open.spotify.com/playlist/47qPUebdGuwPZ5HQdt07tV?si=-af-OpIpR8-A7ruXHKW0TA&pi=4IamxICfTvKem">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="25" />
@@ -35,7 +36,7 @@
 
 <!-- ICON -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack" />
 </p>
 
 ### 💻 Programming Languages
@@ -51,14 +52,18 @@
 
 <!-- GAME -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/RahmainiHarna/RahmainiHarna/output/pacman-contribution-graph.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmainiHarna/RahmainiHarna/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmainiHarna/RahmainiHarna/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/RahmainiHarna/RahmainiHarna/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 ---
 
 <!-- GITHUB STATS -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics" />
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahmainiHarna&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
     <img src="https://streak-stats.demolab.com?user=RahmainiHarna&theme=tokyonight&hide_border=true" height="165"/>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RahmainiHarna&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
