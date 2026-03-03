@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=~~~~Hi+There~~~" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=~~~~Hi+There~~~" />
 </p>
 
 <!-- BANNER -->
