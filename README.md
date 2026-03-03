@@ -16,6 +16,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
     </a>
 </p>
+
 > I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology.
 
 <p align="center">
