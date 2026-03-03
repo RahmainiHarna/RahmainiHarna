@@ -8,7 +8,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me%E2%99%8C" />
 </p>
-
 ***
 
 <p align="center">
