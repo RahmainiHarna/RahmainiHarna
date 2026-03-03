@@ -19,7 +19,6 @@
 
 > I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology.
 
-Fun 
 <p align="center">
     <a href="https://open.spotify.com/playlist/47qPUebdGuwPZ5HQdt07tV?si=-af-OpIpR8-A7ruXHKW0TA&pi=4IamxICfTvKem">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="25" />
