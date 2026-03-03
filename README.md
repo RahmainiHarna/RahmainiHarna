@@ -1,16 +1,66 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=~~~~Hi+There~~~" />
+</p>
 
-<!--
-**RahmainiHarna/RahmainiHarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BANNER -->
+<p align="center">
+    <img src="Rahmaini Harna.png" />
+</p>
 
-Here are some ideas to get you started:
+<!-- PERKENALAN -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=About+Me♌" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Atma&pause=1000&color=FFFFFF&background=35200800&center=true&vCenter=true&width=435&lines=%E2%9C%89%EF%B8%8Frahmainiharna810%40gmail.com;The+Liyers%F0%9F%93%96;ENGENE%F0%9F%94%AE"/>
+</p>
+
+> I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology.
+
+<p align="center">
+    <a href="https://open.spotify.com/playlist/47qPUebdGuwPZ5HQdt07tV?si=-af-OpIpR8-A7ruXHKW0TA&pi=4IamxICfTvKem">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="25" />
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&to=rahmainiharna810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+    </a>
+    <a href="https://instagram.com/yewaye_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/>
+    </a>
+</p>
+
+---
+
+<!-- ICON -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Tech+Stack" />
+</p>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,laravel" height="40"/>
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+
+### 🛠 Tools
+<img src="https://skillicons.dev/icons?i=vscode,git" height="40"/>
+
+---
+
+<!-- GAME -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/RahmainiHarna/RahmainiHarna/output/pacman-contribution-graph.svg" />
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Lobster Two&size=45&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=GitHub+Analytics" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahmainiHarna&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://streak-stats.demolab.com?user=RahmainiHarna&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RahmainiHarna&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
